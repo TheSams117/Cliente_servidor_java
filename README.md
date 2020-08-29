@@ -1,7 +1,10 @@
-# Cliente_servidor_java
+# Client-Server
+This repository have a example about how work a cliente and server.
 
-Primero se inicia la clase Servidor y posteriormente la clase Cliente, en la consola de la clase Cliente se tiene la posibilidad de:
-1) Agregar un cliente al servidor
-2) Conectarse con algun cliente para poder hablar con el. Para realizar la conexión se necesita el id, el cual es asignado por el orden en que se van agregando los clientes, es decir que si agrega el primer cliente este tendra un id=1 
-3) Enlistar los clientes conectados al servidor, en el se muestra el id de los clientes disponibles
-4) Enviar mensaje, que sera cualquier palabra que se escriba
+#Instructions
+First you start the Server class and then the Client class, in the console of the Client class you have the possibility to
+1) Add a client to the server
+2) Connect with a client to talk to them. To make the connection you need the id, which is assigned by the order in which they are adding customers, ie if you add the first client this will have an id = 1 
+3) List the clients connected to the server, the id of the available clients is shown
+4) Send message, which will be any word that is written
+
